@@ -1,0 +1,22 @@
+|Question_1
+A => Sa.IN0
+A => Sb.IN0
+A => Sa.IN0
+A => Sc.IN0
+A => Sf.IN0
+B => Sb.IN1
+B => Sc.IN1
+B => Sf.IN0
+B => Sa.IN1
+B => Sa.IN1
+C => Sa.IN1
+C => Sb.IN1
+C => Sd.IN1
+C => Se.IN1
+C => Sf.IN1
+C => Sf.IN1
+C => Sa.IN1
+C => Sb.IN1
+C => Sc.IN1
+
+

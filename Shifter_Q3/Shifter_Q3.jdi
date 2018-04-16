@@ -1,0 +1,8 @@
+<sld_project_info>
+  <file_info>
+    <file checksum="0x0032F023" device="EP2C35F672C6" path="Shifter_Q3.sof" usercode="0xFFFFFFFF"/>
+    <file checksum="0x1C6FD5D5" device="EPCS16" path="Shifter_Q3.pof" usercode="0x00000000"/>
+  </file_info>
+  <hub_info ir_width="0" node_count="0"/>
+  <node_info/>
+</sld_project_info>

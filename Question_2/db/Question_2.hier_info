@@ -1,0 +1,16 @@
+|Question_2
+A5 => M.DATAIN
+A5 => R.IN0
+A5 => F.IN0
+A4 => F.IN1
+A4 => R.IN1
+A3 => I.IN1
+A3 => R.IN1
+A2 => B2.IN1
+A2 => R.IN1
+A1 => J.IN1
+A1 => R.IN1
+A0 => B1.IN1
+A0 => R.IN1
+
+
